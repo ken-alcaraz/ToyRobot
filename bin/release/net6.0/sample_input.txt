@@ -1,0 +1,10 @@
+place 1,2,south
+move
+left
+move
+place 112
+left
+move
+moba
+move
+report

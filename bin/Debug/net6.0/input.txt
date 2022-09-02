@@ -1,0 +1,6 @@
+place 4,4,north
+right
+right
+move
+report
+exit
